@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1570043368 source:c:\users\lenovo\desktop\po salutines\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<thread>
+	<string>
+
